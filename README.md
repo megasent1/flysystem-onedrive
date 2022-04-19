@@ -13,14 +13,14 @@ This package contains a [Flysystem](https://flysystem.thephpleague.com/) adapter
 You can install the package via composer:
 
 ``` bash
-composer require hevelius/flysystem-onedrive
+composer require megasent1/flysystem-onedrive
 ```
 or add direct this repo in composer.json
 
 ```json
 "repositories": [
         {
-            "url": "https://github.com/hevelius/flysystem-onedrive.git",
+            "url": "https://github.com/megasent1/flysystem-onedrive.git",
             "type": "git"
         }
     ],
